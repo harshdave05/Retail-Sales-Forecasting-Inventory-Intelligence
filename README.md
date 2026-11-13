@@ -112,6 +112,17 @@ For Windows PowerShell:
 pip install -r requirements.txt
 ```
 
+## Application Screenshots
+
+### Main Dashboard
+![Main Dashboard](screenshots/dashboard.png)
+
+### Inventory Recommendations
+![Inventory Intelligence](screenshots/inventory.png)
+
+### Model Performance
+![Model Performance](screenshots/model-performance.png)
+
 ## Model Training
 
 After placing the required dataset file in the dataset folder, run:
@@ -221,3 +232,4 @@ GitHub: [harshdave05](https://github.com/harshdave05)
 ## Project Repository
 
 [Retail Sales Forecasting & Inventory Intelligence System](https://github.com/harshdave05/Retail-Sales-Forecasting-Inventory-Intelligence)
+
