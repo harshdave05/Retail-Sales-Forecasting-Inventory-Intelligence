@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+virtual/
+venv/
+.venv/
+
+# Trained model files
+models/*.pkl
+
+# Large M5 dataset files
+dataset/sales_train_validation.csv
+dataset/sell_prices.csv
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
